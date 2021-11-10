@@ -7,7 +7,7 @@ img_height = 100;
 var img_image;
 
 img_x = 100;
-img_y = 100;
+img_y = 30;
 
 function add() {
 	img_imgTag = new Image(); //defining a variable with a new image
